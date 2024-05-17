@@ -1,8 +1,12 @@
 <p align="center"><h1>Dynamic Image Collage Generator</h1></p>
 
-[![Webily](https://raw.githubusercontent.com/WebilyBE/DynamicImageCollageGenerator/main/DynamicImageCollageGenerator-5.jpeg)](https://webily.io)
+[![Webily](https://raw.githubusercontent.com/WebilyBE/DynamicImageCollageGenerator/main/generate_image_collage.jpeg)](https://webily.io)
 
-[![Webily](https://raw.githubusercontent.com/WebilyBE/DynamicImageCollageGenerator/main/DynamicImageCollageGenerator-6.jpeg)](https://webily.io)
+[![Webily](https://raw.githubusercontent.com/WebilyBE/DynamicImageCollageGenerator/main/generate_image_collage-1.jpeg)](https://webily.io)
+
+[![Webily](https://raw.githubusercontent.com/WebilyBE/DynamicImageCollageGenerator/main/generate_image_collage-3.jpeg)](https://webily.io)
+
+[![Webily](https://raw.githubusercontent.com/WebilyBE/DynamicImageCollageGenerator/main/generate_image_collage-4.jpeg)](https://webily.io)
 
 ---
 This PHP script dynamically generates images based on various parameters such as image width and height, text to be displayed, and the presence of image files. Here is a detailed description of the code:
