@@ -29,3 +29,13 @@ This PHP script dynamically generates images based on various parameters such as
 - The image is then directly output as a JPEG image.
 
 This script generates dynamic image collages with text overlay, which is useful for automatically creating attractive visuals for social media posts, for example.
+
+Here are some example links to generate dynamic image collages:
+
+1. **Dynamic Collage**: This link generates a dynamic image collage with a width of 1200 pixels, a height of 630 pixels, and the text "Dynamic Collage". `example.com/generate_image_collage.php?width=1200&height=630&text=Dynamic%20Collage`
+
+2. **Awesome Collage**: This link creates an awesome image collage with a width of 638 pixels, a height of 404 pixels, and the text "Awesome Collage".  `example.com/generate_image_collage.php?width=638&height=404&text=Awesome%20Collage`
+
+3. **Beautiful Collage**: Use this link to generate a beautiful image collage with a width of 600 pixels, a height of 315 pixels, and the text "Beautiful Collage". `example.com/generate_image_collage.php?width=600&height=315&text=Beautiful%20Collage`
+
+You can replace `example.com/generate_image_collage.php` with the actual URL where the script is hosted.
